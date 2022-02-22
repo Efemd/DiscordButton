@@ -1,0 +1,16 @@
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\DiscordButton.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\DiscordButton.pdb
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\Assembly-CSharp.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\Rocket.API.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\Rocket.Core.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\Rocket.Unturned.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\SDG.NetTransport.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\UnityEngine.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\obj\Debug\DiscordButton.csproj.AssemblyReference.cache
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\obj\Debug\DiscordButton.csproj.CoreCompileInputs.cache
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\obj\Debug\DiscordButton.csproj.CopyComplete
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\obj\Debug\DiscordButton.dll
+C:\Users\Efe.md\source\repos\DiscordButton\DiscordButton\obj\Debug\DiscordButton.pdb

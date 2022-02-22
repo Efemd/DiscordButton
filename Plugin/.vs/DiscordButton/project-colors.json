@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05e06524-877e-4aef-9b1b-c1c7c1c049c3": {
+      "ProjectGuid": "05e06524-877e-4aef-9b1b-c1c7c1c049c3",
+      "DisplayName": "DiscordButton",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
